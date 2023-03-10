@@ -1,0 +1,1 @@
+DROP DATABASE hola_mundo
